@@ -1,3 +1,3 @@
 # graduation-project
 airline flights delay prediction using machine learning
-https://flightsdelayprediction18.herokuapp.com/
+https://graduation-p.up.railway.app/
